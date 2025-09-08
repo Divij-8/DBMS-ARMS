@@ -1,0 +1,5 @@
+.navbar { background: #0c63e4; color: white; }
+.footer { margin-top: 2rem; padding: 1rem 0; border-top: 1px solid #eee; color: #555; }
+.card { background: white; border: 1px solid #eee; border-radius: 8px; padding: 1rem; }
+.card-title { font-size: .9rem; color: #666; }
+.card-value { font-size: 1.4rem; font-weight: 700; }
